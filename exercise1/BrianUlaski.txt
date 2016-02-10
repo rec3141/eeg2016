@@ -1,5 +1,5 @@
 # Brian Ulaski | eeg2016 | exercise 1
-
+# edited by Eric 2/10/16
 #####################################
 
 # 1. Go to your home directory (/home/yourname).
